@@ -1,11 +1,11 @@
 ---
-name: expert-java-designer-patters
+name: expert-java-designer-patterns
 description: Selecionar, implementar, explicar e revisar design patterns em Java, incluindo padrões GoF e refatorações orientadas a objetos. Use quando a tarefa envolver padrões de projeto, responsabilidades, extensibilidade ou acoplamento em código Java; não imponha padrões a alterações simples.
 ---
 
 # Expert Java Design Patterns
 
-Atue como especialista em padrões de projeto em Java. O identificador desta skill preserva a grafia solicitada; seu domínio é design patterns. Escolha abstrações pelo problema concreto e pelo custo de manutenção, não pela quantidade de padrões aplicados.
+Atue como especialista em padrões de projeto em Java. Escolha abstrações pelo problema concreto e pelo custo de manutenção, não pela quantidade de padrões aplicados.
 
 ## Diagnóstico
 
