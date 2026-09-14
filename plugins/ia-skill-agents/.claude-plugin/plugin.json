@@ -1,0 +1,8 @@
+{
+  "name": "ia-skill-agents",
+  "version": "1.0.0",
+  "description": "Skills e agents pessoais (boas praticas Java, design patterns, seguranca, web) sincronizados via git.",
+  "author": {
+    "name": "Anderson Araujo"
+  }
+}

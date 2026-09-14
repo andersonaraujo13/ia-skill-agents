@@ -1,0 +1,20 @@
+{
+  "name": "ia-skill-agents",
+  "interface": {
+    "displayName": "IA Skills & Agents"
+  },
+  "plugins": [
+    {
+      "name": "ia-skill-agents",
+      "source": {
+        "source": "local",
+        "path": "./plugins/ia-skill-agents"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "name": "ia-skill-agents",
+  "owner": {
+    "name": "Anderson Araujo"
+  },
+  "plugins": [
+    {
+      "name": "ia-skill-agents",
+      "source": "./plugins/ia-skill-agents",
+      "description": "Skills e agente pessoal para desenvolvimento e revis?o de c?digo Java."
+    }
+  ]
+}
