@@ -5,7 +5,7 @@ Repositório pessoal de skills e agentes para desenvolvimento, revisão e audito
 ## Estrutura
 
 - `skills/`: skills compartilhadas pelos dois agentes.
-- `agents/`: definições do agente `revisor-codigo-java`; o Markdown é usado pelo Claude Code e o TOML pelo Codex.
+- `agents/`: definições dos agentes `revisor-codigo` (geral) e `revisor-codigo-java`; o Markdown é usado pelo Claude Code e o TOML pelo Codex.
 - `.claude-plugin/plugin.json`: manifesto do plugin Claude Code.
 - `.codex-plugin/plugin.json`: manifesto do plugin Codex.
 

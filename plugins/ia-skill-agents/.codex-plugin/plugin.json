@@ -1,6 +1,6 @@
 {
   "name": "ia-skill-agents",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Skills e agente pessoal para desenvolvimento, revisão e auditoria de software.",
   "author": {
     "name": "Anderson Araujo"
@@ -11,11 +11,12 @@
   "interface": {
     "displayName": "IA Skills & Agents",
     "shortDescription": "Skills pessoais para engenharia de software.",
-    "longDescription": "Skills e um agente de revisão compartilhados entre Claude Code e Codex.",
+    "longDescription": "Skills e agentes de revisão compartilhados entre Claude Code e Codex.",
     "developerName": "Anderson Araujo",
     "category": "Developer Tools",
     "capabilities": ["Read", "Write"],
     "defaultPrompt": [
+      "Faça uma revisão de código geral desta alteração antes do merge.",
       "Revise esta alteração de código usando as skills instaladas.",
       "Aplique boas práticas a este código Java web.",
       "Avalie se este design Java precisa de um pattern."
