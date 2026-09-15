@@ -1,0 +1,4 @@
+interface:
+  display_name: "Java Design Patterns"
+  short_description: "Padrões de projeto aplicados a Java"
+  default_prompt: "Use $expert-java-designer-patterns para avaliar este design Java."

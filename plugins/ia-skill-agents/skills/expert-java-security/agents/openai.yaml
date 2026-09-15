@@ -1,0 +1,4 @@
+interface:
+  display_name: "Java Security Audit"
+  short_description: "Auditoria de segurança Java sem remediação"
+  default_prompt: "Use $expert-java-security para auditar a segurança desta aplicação Java."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Java Web Expert"
+  short_description: "Desenvolvimento e revisão de aplicações Java web"
+  default_prompt: "Use $expert-java-web para implementar esta alteração Java web."

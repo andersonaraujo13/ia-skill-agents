@@ -1,22 +1,22 @@
 {
   "name": "ia-skill-agents",
   "version": "1.0.0",
-  "description": "Skills e agente pessoal para desenvolvimento e revisão de código Java.",
+  "description": "Skills e agente pessoal para desenvolvimento, revisão e auditoria de software.",
   "author": {
     "name": "Anderson Araujo"
   },
   "repository": "https://github.com/andersonaraujo13/ia-skill-agents",
-  "keywords": ["java", "code-review", "security", "design-patterns"],
+  "keywords": ["java", "javascript", "typescript", "angular", "css", "ux", "code-review", "security", "design-patterns"],
   "skills": "./skills/",
   "interface": {
     "displayName": "IA Skills & Agents",
-    "shortDescription": "Skills pessoais para engenharia Java.",
-    "longDescription": "Skills e um agente de revisão para aplicações Java, compartilhados entre Claude Code e Codex.",
+    "shortDescription": "Skills pessoais para engenharia de software.",
+    "longDescription": "Skills e um agente de revisão compartilhados entre Claude Code e Codex.",
     "developerName": "Anderson Araujo",
     "category": "Developer Tools",
     "capabilities": ["Read", "Write"],
     "defaultPrompt": [
-      "Revise esta alteração Java usando as skills instaladas.",
+      "Revise esta alteração de código usando as skills instaladas.",
       "Aplique boas práticas a este código Java web.",
       "Avalie se este design Java precisa de um pattern."
     ],

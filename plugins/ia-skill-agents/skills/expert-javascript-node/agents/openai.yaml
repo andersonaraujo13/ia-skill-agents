@@ -1,0 +1,5 @@
+interface:
+  display_name: "Expert JavaScript Node.js"
+  short_description: "Reliable Node.js services, tools, and packages"
+  default_prompt: "Use $expert-javascript-node to implement and verify this Node.js change."
+

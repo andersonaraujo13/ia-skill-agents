@@ -1,0 +1,5 @@
+interface:
+  display_name: "Expert JavaScript & TypeScript"
+  short_description: "Robust, typed JavaScript and TypeScript engineering"
+  default_prompt: "Use $expert-javascript-typescript to implement and verify this JavaScript or TypeScript change."
+

@@ -1,6 +1,6 @@
 # IA Skills & Agents
 
-Repositório pessoal de skills e agentes para desenvolvimento Java. A mesma fonte atende Claude Code e Codex.
+Repositório pessoal de skills e agentes para desenvolvimento, revisão e auditoria de software. A mesma fonte atende Claude Code e Codex.
 
 ## Estrutura
 

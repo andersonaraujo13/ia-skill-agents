@@ -1,0 +1,4 @@
+interface:
+  display_name: "Expert CSS"
+  short_description: "Arquitetura e componentes CSS responsivos"
+  default_prompt: "Use $expert-css para implementar ou refatorar este CSS."

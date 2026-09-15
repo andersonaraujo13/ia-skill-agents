@@ -1,0 +1,4 @@
+interface:
+  display_name: "Expert UX Audit"
+  short_description: "Auditoria UX/UI com orientação de implementação"
+  default_prompt: "Use $expert-ux-audit para auditar esta interface."

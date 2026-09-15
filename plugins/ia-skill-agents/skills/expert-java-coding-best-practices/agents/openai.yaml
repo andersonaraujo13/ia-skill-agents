@@ -1,0 +1,4 @@
+interface:
+  display_name: "Java Coding Best Practices"
+  short_description: "Revisão e refatoração Java orientada a comportamento"
+  default_prompt: "Use $expert-java-coding-best-practices para revisar este código Java."

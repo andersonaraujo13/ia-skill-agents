@@ -1,0 +1,4 @@
+interface:
+  display_name: "Expert Java Design Patterns"
+  short_description: "Seleciona e aplica padrões de projeto modernos em Java"
+  default_prompt: "Analise o código Java e aplique apenas os padrões de projeto que reduzam acoplamento e melhorem a manutenção."
